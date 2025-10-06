@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Lion",
+    "species": "Mammal",
+    "description": "The lion is a large cat native to Africa and India, known as the king of the jungle.",
+    "image": "assets/images/lion.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Penguin",
+    "species": "Bird",
+    "description": "Penguins are flightless birds that live mostly in the Southern Hemisphere, especially Antarctica.",
+    "image": "assets/images/penguin.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cobra",
+    "species": "Reptile",
+    "description": "Cobras are venomous snakes known for their hood and are found in Asia and Africa.",
+    "image": "assets/images/cobra.jpg"
+  }
+]
